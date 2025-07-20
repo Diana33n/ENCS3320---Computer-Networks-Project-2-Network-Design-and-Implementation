@@ -29,19 +29,8 @@ The objective of this project is to design a scalable and efficient network for 
 ### Requirements
 
 * Cisco Packet Tracer (version 8.1 or later)
-* G(10).pkt file from this repository
 
-### Steps
 
-1. Open Cisco Packet Tracer.
-2. Load the `G(10).pkt` file.
-3. Start the simulation and verify:
-
-   * Router configurations
-   * End-device connectivity
-   * DNS and HTTP server functionality
-
----
 
 ## Report Highlights (G10.pdf)
 
