@@ -1,6 +1,3 @@
-Perfect. Based on your **G10.pdf** (Network Design Report) and **G(10).pkt** (Packet Tracer project), here’s a professional **README.md** for your ENCS3320 Project #2:
-
----
 
 # ENCS3320 - Computer Networks Project #2: Network Design and Implementation
 
